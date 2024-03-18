@@ -21,3 +21,5 @@ Por aqui, compartilho os projetos relacionados à computação em nuvem de minha
 
 ## Projetos:
 Veja os projetos realizados sobre Cloud Computing:
+
+* **Modernização da estrutura de um e-commerce (em andamento)**: https://github.com/gsfreitas/cloud-computing/tree/main/modernizacao-estrutura-ecommerce
