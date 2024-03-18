@@ -9,7 +9,7 @@
 
 A computação em nuvem é um modelo de fornecimento de serviços de computação, incluindo servidores, armazenamento, bancos de dados, rede, software, análise e inteligência, pela Internet, também conhecida como “a nuvem”. Ela oferece inovações mais rápidas, recursos flexíveis e economias de escala.
 
-Utilizar da infraestrutura de um provedor de numve fornece inúmeros benefícios, como por exemplo a redução de custo, escala global, alta disponibilidade e escalabilidade.
+Utilizar da infraestrutura de um provedor de nuvem fornece inúmeros benefícios, como por exemplo a redução de custo, escala global, alta disponibilidade e escalabilidade.
 
 Em resumo, a computação em nuvem transformou a maneira como as empresas pensam e gerenciam seus recursos de TI, proporcionando benefícios significativos em termos de custo, velocidade, escala, produtividade, desempenho e confiabilidade.
 
