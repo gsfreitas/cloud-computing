@@ -1,4 +1,4 @@
-[![Author](https://img.shields.io/badge/author-Gabriel_Freitas-purple.svg)](https://www.linkedin.com/in/gabrielsfreitas/) [![Microsoft](https://img.shields.io/badge/Azure-blue.svg)](https://azure.microsoft.com/pt-br/) [![](https://img.shields.io/badge/Oracle-SQL-orange.svg)](https://www.mysql.com/downloads/)
+[![Author](https://img.shields.io/badge/author-Gabriel_Freitas-purple.svg)](https://www.linkedin.com/in/gabrielsfreitas/) [![Microsoft](https://img.shields.io/badge/Azure-blue.svg)](https://azure.microsoft.com/pt-br/)] [![](https://img.shields.io/badge/Oracle-SQL-orange.svg)](https://www.mysql.com/downloads/)
 
 <p align="center">
   <img src="banner.png" >
